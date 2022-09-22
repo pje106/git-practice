@@ -4,7 +4,7 @@ def max_value(numbers):
     """
 
     # Younghee's comment!
-    pass
+    return numbers 
 
 
 if __name__ == "__main__":
